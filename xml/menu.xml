@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <plato pla="Carne">
+        <link>./img/albondigas-en-salsa-de-almendras.jpg</link>
+        <nombre>Albondigas en salsa de almendra</nombre>
+        <precio>6,35€</precio>
+        <descripcion> Exquisitas albóndigas de pollo y ternera en una exótica salsa de almendras y curry. Un plato como los de siempre, pero con un toque elegante gracias a su deliciosa salsa perfecta para mojar pan.</descripcion>
+        <calorias>Calorias 647 kcal</calorias>
+        <caracte>
+            <grasas>grasas 46,9</grasas>
+            <HC>Hidratos de carbono 23,1</HC>
+            <Azucar>Azucar 8</Azucar>
+            <sal>Sal 3,85</sal>
+            <proteinas>26,2</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Pesca">
+        <link>./img/atun-encebollado.jpg</link>
+        <nombre>Atún encebolla</nombre>
+        <precio>8,00€</precio>
+        <descripcion>Plato típico marinero de la bahía de Cádiz que hacemos con un buen lomo de atún y mucho cariño. Aderezado con pimienta, orégano y pimentón para que tenga un sabor inconfundible.</descripcion>
+        <calorias>Calorias 271,9 kcal</calorias>
+         <caracte>
+            <grasas>grasas 6,3</grasas>
+            <HC>Hidratos de carbono 8,4</HC>
+            <Azucar>Azucar 5,6</Azucar>
+            <sal>Sal 1,2</sal>
+            <proteinas>Proteinas 44,45</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Verde">
+        <link>./img/ensalada-de-garbanzos-acelgas-y-hummus.jpg</link>
+        <nombre>Ensalada de garbanzos</nombre>
+        <precio>5,30€</precio>
+        <descripcion>Rica y saludable ensalada inspirada en la antigua cocina sefardí. Es un plato apto para todos, en la cocina vegana se suele acompañar de pan de pita, mientras que otros lo prefieren como previo a una carne o un Pescado.</descripcion>
+        <calorias>Calorias 319 kcal</calorias>
+        <caracte>
+            <grasas>grasas 15</grasas>
+            <HC>Hidratos de carbono 28,3</HC>
+            <Azucar>Azucar 5,2</Azucar>
+            <sal>Sal 2,5</sal>
+            <proteinas>Proteinas 12,2</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Verde">
+        <link>./img/guisantes-con-jamon.jpg</link>
+        <nombre>Guisantes con jamón</nombre>
+        <precio>5,30€</precio>
+        <descripcion>Finos guisantes salteados con aceite de oliva, cebolla confitada y jamón. Un plato gustoso y saludable con el que se te hará la boca agua.</descripcion>
+        <calorias>Calorias 415 kcal</calorias>
+        <caracte>
+            <grasas>grasas 24,15</grasas>
+            <HC>Hidratos de carbono 29,75</HC>
+            <Azucar>Azucar 9,45</Azucar>
+            <sal>Sal 3,78</sal>
+            <proteinas>Proteinas 30,8</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Carne">
+        <link>./img/solomillo-de-cerdo-en-salsa-de-vino-fino.jpg</link>
+        <nombre>Solomillo de cerdo en salsa de vino fino</nombre>
+        <precio>7,40€</precio>
+        <descripcion>La carne más noble del cerdo en la más fina de las salsas. Acompáñalo de puré de manzana, guarnición de patatas o arroz blanco para completarlo. Un plato perfecto para las grandes celebraciones en familia.</descripcion>
+        <calorias>Calorias 257 kcal</calorias>
+        <caracte>
+            <grasas>grasas 10,85</grasas>
+            <HC>Hidratos de carbono 4,2</HC>
+            <Azucar>Azucar 3,2</Azucar>
+            <sal>Sal 1,54</sal>
+            <proteinas>Proteinas 35,7</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Verde">
+        <link>./img/alcachofas-a-la-montillana-con-jamon.jpg</link>
+        <nombre>Alcachofas a la montillana con jamón</nombre>
+        <precio>5,95€</precio>
+        <descripcion>Corazones de alcachofas salteados con vino fino de Montilla-Moriles. Plato típico de la cocina cordobesa que no te puedes perder. Receta única para que disfrute toda la familia.</descripcion>
+        <calorias>Calorias 273 kcal</calorias>
+        <caracte>
+            <grasas>grasas 11,9</grasas>
+            <HC>Hidratos de carbono 28</HC>
+            <Azucar>Azucar 5,6</Azucar>
+            <sal>Sal 3,8</sal>
+            <proteinas>Proteinas 10,5</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Pesca">
+        <link>./img/calamares-en-salsa.jpg</link>
+        <nombre>Calamares en salsa</nombre>
+        <precio>8,25 €</precio>
+        <descripcion>Tiernas anillas de calamar doradas en aceite de oliva virgen extra y bañadas en una sabrosa salsa de verduras y vino blanco.</descripcion>
+        <calorias>Calorias 347 kcal</calorias>
+        <caracte>
+            <grasas>grasas 15,4</grasas>
+            <HC>Hidratos de carbono 15</HC>
+            <Azucar>Azucar 10,9</Azucar>
+            <sal>Sal 2,7</sal>
+            <proteinas>Proteinas 30,8</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Carne">
+        <link>./img/ragout-de-ternera-en-salsa-de-vino-tinto-350-g.jpg</link>
+        <nombre>Ragout de ternera en salsa de vino tinto</nombre>
+        <precio>7,40 €</precio>
+        <descripcion>Ternera estofada a fuego lento, tierna y deliciosa. Un plato con muchísimo sabor, gracias a la combinación de la carne con la jugosa salsa bordelesa. No dudes en acompañarlo de una guarnición de patatas.</descripcion>
+        <calorias>Calorias 345 kcal</calorias>
+        <caracte>
+            <grasas>grasas 18,9</grasas>
+            <HC>Hidratos de carbono 7,35</HC>
+            <Azucar>Azucar 4,5</Azucar>
+            <sal>Sal 2</sal>
+            <proteinas>Proteinas 35,3</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Pesca">
+        <link>./img/merluza-al-cava-con-gambas-350-g.jpg</link>
+        <nombre>Merluza al cava con gambas</nombre>
+        <precio>8,00 €</precio>
+        <descripcion>La merluza al cava con gambas es una de las recetas perfectas para cualquier ocasión y momento del año. Sorpréndete a ti mismo o a tus invitados… ¡se chuparán los dedos!</descripcion>
+        <calorias>Calorias 256 kcal</calorias>
+        <caracte>
+            <grasas>grasas 6,6</grasas>
+            <HC>Hidratos de carbono 19,2</HC>
+            <Azucar>Azucar 3,9</Azucar>
+            <sal>Sal 1,6</sal>
+            <proteinas>Proteinas 28</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Verde">
+        <link>./img/wok-de-verduras-con-soja-y-cacahuetes.jpg</link>
+        <nombre>Wok de verduras con soja y cacahuetes</nombre>
+        <precio>5,85 €</precio>
+        <descripcion>Plato muy popular de la cocina oriental, que además es rico en omega 6.</descripcion>
+        <calorias>Calorias 256 kcal</calorias>
+        <caracte>
+            <grasas>grasas 6,6</grasas>
+            <HC>Hidratos de carbono 19,2</HC>
+            <Azucar>Azucar 3,9</Azucar>
+            <sal>Sal 1,6</sal>
+            <proteinas>Proteinas 28</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Verde">
+        <link>./img/brocoli-salteado-con-cebolla-roja-y-almendras.jpg</link>
+        <nombre>Brócoli salteado con cebolla roja y almendras</nombre>
+        <precio>5,50 €</precio>
+        <descripcion>Disfruta del sabor del brócoli acompañado de cebolla roja y almendras. Una combinación irresistible que te aporta además proteínas e hierro.</descripcion>
+        <calorias>Calorias 273 kcal</calorias>
+        <caracte>
+            <grasas>grasas 18</grasas>
+            <HC>Hidratos de carbono 10,8</HC>
+            <Azucar>Azucar 10,8</Azucar>
+            <sal>Sal 1,8</sal>
+            <proteinas>Proteinas 11,1</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Carne">
+        <link>./img/arroz-con-rabo-de-toro.jpg</link>
+        <nombre>Arroz con rabo de toro</nombre>
+        <precio>6,95 €</precio>
+        <descripcion>Sabrosa combinación de arroz y verduras con el plato estrella de la cocina cordobesa: el rabo de toro. Un plato cocinado bien, cocinado con mucho amor.</descripcion>
+        <calorias>Calorias 567 kcal</calorias>
+        <caracte>
+            <grasas>grasas 22</grasas>
+            <HC>Hidratos de carbono 73,5</HC>
+            <Azucar>Azucar 3,8</Azucar>
+            <sal>Sal 4,2</sal>
+            <proteinas>Proteinas 19,25</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Carne">
+        <link>./img/quinoa-con-pollo-y-hortalizas.jpg</link>
+        <nombre>Quinoa con pollo y hortalizas</nombre>
+        <precio>6,35 €</precio>
+        <descripcion>Aprovecha y prueba esta deliciosa receta con este superalimento tan codiciado por los incas.</descripcion>
+        <calorias>Calorias 385 kcal</calorias>
+        <caracte>
+            <grasas>grasas 19,3</grasas>
+            <HC>Hidratos de carbono 25,9</HC>
+            <Azucar>Azucar 5,6</Azucar>
+            <sal>Sal 1,75</sal>
+            <proteinas>Proteinas 24,2</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Carne">
+        <link>./img/tallarines-a-la-carbonara.jpg</link>
+        <nombre>Tallarines a la carbonara</nombre>
+        <precio>5,30 €</precio>
+        <descripcion>Estos tallarines a la carbonara parten de la tradicional receta italiana, pero añadiendo nata y cebolla pochada. Se trata de una versión muy popular fuera de las fronteras italianas, que le aporta un extra de cremosidad.</descripcion>
+        <calorias>Calorias 551 kcal</calorias>
+        <caracte>
+            <grasas>grasas 28,7</grasas>
+            <HC>Hidratos de carbono 55,6</HC>
+            <Azucar>Azucar 6,3</Azucar>
+            <sal>Sal 1,8</sal>
+            <proteinas>Proteinas 15</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Carne">
+        <link>./img/espaguetis-a-la-bolonesa-350-g.jpg</link>
+        <nombre>Espaguetis a la boloñesa</nombre>
+        <precio>5,30 €</precio>
+        <descripcion>La salsa boloñesa tiene su origen en la Bolonia de la Edad Media, gracias al movimiento que generaba la circulación de estudiantes y profesores de la universidad por Europa.</descripcion>
+        <calorias>Calorias 528 kcal</calorias>
+        <caracte>
+            <grasas>grasas 14,7</grasas>
+            <HC>Hidratos de carbono 77,7</HC>
+            <Azucar>Azucar 13</Azucar>
+            <sal>Sal 0,6</sal>
+            <proteinas>Proteinas 18,2</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Verde">
+        <link>./img/ensalada-de-col-con-nueces-pasas-y-manzana.jpg</link>
+        <nombre>Ensalada de col con nueces, pasas y manzana</nombre>
+        <precio>5,30 €</precio>
+        <descripcion>De la huerta a tu plato: col, nueces, pasas y manzanas, todos estos ingredientes juntos crean una perfecta combinación de comida saludable y aporte energético para ayudarte durante el día. Disfruta de esta explosión de matices elaborada con todo nuestro cariño.</descripcion>
+        <calorias>Calorias 457,2 kcal</calorias>
+        <caracte>
+            <grasas>grasas 38,4</grasas>
+            <HC>Hidratos de carbono 19,5</HC>
+            <Azucar>Azucar 17,4</Azucar>
+            <sal>Sal 2,88</sal>
+            <proteinas>Proteinas 5,1</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Verde">
+        <link>./img/risotto-de-champinones-con-bacon-y-parmesano-350-g.jpg</link>
+        <nombre>Risotto de champiñones con bacon y parmesano</nombre>
+        <precio>5,85 €</precio>
+        <descripcion>El risotto, un alimento de la cocina tradicional italiana realizada a base de arroz, siendo el modo más común de cocinar el arroz en Italia.</descripcion>
+        <calorias>Calorias 651,4 kcal</calorias>
+        <caracte>
+            <grasas>grasas 36,8</grasas>
+            <HC>Hidratos de carbono 64</HC>
+            <Azucar>Azucar 3</Azucar>
+            <sal>Sal 4,2</sal>
+            <proteinas>Proteinas 14,7</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Carne">
+        <link>./img/carne-con-tomate.jpg</link>
+        <nombre>Carne con tomate</nombre>
+        <precio>6,35 €</precio>
+        <descripcion>Esta receta de carne con tomate es común en la gastronomía tradicional andaluza, elaborada con carne de cerdo acompañada de una rica salsa de tomate y zanahorias.</descripcion>
+        <calorias>Calorias 522,5 kcal</calorias>
+        <caracte>
+            <grasas>grasas 29</grasas>
+            <HC>Hidratos de carbono 13,7</HC>
+            <Azucar>Azucar 11,2</Azucar>
+            <sal>Sal 1,9</sal>
+            <proteinas>Proteinas 50,8</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Carne">
+        <link>./img/noodles-al-wok-de-pollo-y-verduras-350-g.jpg</link>
+        <nombre>Noodles al wok de pollo y verduras</nombre>
+        <precio>5,50 €</precio>
+        <descripcion>Esta receta originaria de Asia, la elaboramos con aromas que te transportarán a un mercado de Tailandia, este colorido plato dará un toque sano y delicioso a tu menú.</descripcion>
+        <calorias>Calorias 393 kcal</calorias>
+        <caracte>
+            <grasas>grasas 12,3</grasas>
+            <HC>Hidratos de carbono 42,9</HC>
+            <Azucar>Azucar 12,6</Azucar>
+            <sal>Sal 2,4</sal>
+            <proteinas>Proteinas 24,6</proteinas>
+        </caracte>
+    </plato>
+    <plato pla="Verde">
+        <link>./img/berenjena-a-la-bolonesa-vegana-con-bechamel-de-coliflor.jpg</link>
+        <nombre>Berenjena a la boloñesa vegana con bechamel de coliflor</nombre>
+        <precio>6,35€</precio>
+        <descripcion>Espectacular berenjena rellena de nuestra boloñesa vegana cubierta con una deliciosa bechamel de coliflor gratinada que te hará disfrutar al máximo de su sabor.</descripcion>
+        <calorias>Calorias 315 kcal</calorias>
+        <caracte>
+            <grasas>grasas 20,3</grasas>
+            <HC>Hidratos de carbono 22</HC>
+            <Azucar>Azucar 12,6</Azucar>
+            <sal>Sal 1,3</sal>
+            <proteinas>Proteinas 8,05</proteinas>
+        </caracte>
+    </plato>
+</menu>
