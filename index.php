@@ -49,11 +49,6 @@
 </nav>
 <!-- Fin del Navbar -->
 <div class="margen">
-    <div class="centro">
-        <h1>MENU DE LA CASA</h1>
-        <h2>BIENVENIDO A NUESTRO</h2>
-        <h2>RESTAURANTE</h2>
-    </div>
 <!-- <img src="./img/albondigas-en-salsa-de-almendras.jpg" alt="">
 <img src="./img/alcachofas-a-la-montillana-con-jamon.jpg" alt="">
 <img src="./img/arroz-con-rabo-de-toro.jpg" alt="">
@@ -86,8 +81,6 @@
                 echo $plato->nombre;
                 echo "<br>";
                 echo "</h3>";
-                
-
                 echo "<p class='desc'>$plato->descripcion</p>";
                 echo "<h5>";
                 echo $plato->calorias;
@@ -100,9 +93,27 @@
                 }
             }
         } else {
+            echo '<div class="centro">';
+            echo '<h1>MENU DE LA CASA</h1>';
+            echo '<h2>BIENVENIDO A NUESTRO</h2>';
+            echo '<h2>RESTAURANTE</h2>';
+            echo '</div>';
             foreach ($xml->plato as $plato) {
-                echo $plato->nombre.' - ';
-                echo $plato->precio.'<br>';
+                echo "<div class='column2 flex'>";
+                echo '<div class="column2">';
+                echo "<h3>";
+                echo $plato->nombre;
+                echo "<br>";
+                echo "</h3>";
+                echo "<p class='desc'>$plato->descripcion</p>";
+                echo "<h5>";
+                echo $plato->calorias;
+                echo "<br>";
+                echo $plato->precio;
+                echo "</h5>";
+                echo '</div>';
+                echo "<img src='$plato->link' alt=''>";
+                echo "</div>";
             }
         }
     ?>
