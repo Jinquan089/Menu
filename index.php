@@ -75,8 +75,8 @@
             if(isset($_GET['pla'])) {
             foreach ($xml->plato as $plato) {
                 if ($_GET['pla']==$plato['pla']) {
-                echo "<div class='column2 flex'>";
-                echo '<div class="column2">';
+                echo "<div class='column2 flex '>";
+                echo '<div class="column2 espacio">';
                 echo "<h3>";
                 echo $plato->nombre;
                 echo "<br>";
@@ -100,7 +100,7 @@
             echo '</div>';
             foreach ($xml->plato as $plato) {
                 echo "<div class='column2 flex'>";
-                echo '<div class="column2">';
+                echo '<div class="column2 espacio">';
                 echo "<h3>";
                 echo $plato->nombre;
                 echo "<br>";
